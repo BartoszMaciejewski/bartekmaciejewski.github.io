@@ -2,6 +2,9 @@
 layout: post
 title: Becaming Scala Enginner (fundamentals)
 subtitle: It is good to start... anywhere, anytime
+cover-img: /assets/img/scala-intro.PNG
+thumbnail-img: /assets/img/scala-intro.PNG
+share-img: /assets/img/scala-intro.PNG
 gh-repo: daattali/beautiful-jekyll
 gh-badge: [star, fork, follow]
 tags: [test]
@@ -23,3 +26,8 @@ The next question is why you are interested in Scala programming? For me, after 
 https://www.coursera.org/learn/progfun1
 
 https://pragprog.com/titles/swdddf/domain-modeling-made-functional/
+
+## First look
+Yep, after few lessons and practices from https://www.udemy.com/course/rock-the-jvm-scala-for-beginners/ I think it will be spectacular journey. Main characteristics I can leave right now here about Scala is: IMMUTABILITY! IMMUTABILITY EVERYWHERE! and DECLARATIVE OVER IMPERATIVE (EXPRESSIONS OVER PROCEDURES)
+
+Why is it so interesting to me? Some months ago I found this author and his blog: Yegor Bugayenko (https://www.yegor256.com). And yeah, you are rigth, he may seem like a little bit freaky, but that's not true - content is premium quality to start thinking in OOP way. You don't have to (or even should) to agree with him, but issueas and doubts he raises are first-class citizens in our programming day after day routine. His post about immutability: https://www.yegor256.com/2014/11/07/how-immutability-helps.html is good to start with.
