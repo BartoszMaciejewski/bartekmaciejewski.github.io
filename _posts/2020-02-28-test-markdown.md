@@ -8,71 +8,18 @@ tags: [test]
 comments: true
 ---
 
-This is a demo post to show you how to write blog posts with markdown.  I strongly encourage you to [take 5 minutes to learn how to write in markdown](https://markdowntutorial.com/) - it'll teach you how to transform regular text into bold/italics/headings/tables/etc.
+First one on path `Becaming Scala Engineer` - diving in Scala world
 
-**Here is some bold text**
+## To start with - materials
 
-## Here is a secondary heading
+## Obvious things
+Yes, you can learn anything for your inner joy and self-development. But let's be honest - best opportunity is to learn and experience in your job, on large scale application so you can be sure that your choices, your architecture is battle-tested.
 
-Here's a useless table:
+## Online courses
+There is this guy on Udemy: https://www.udemy.com/user/daniel-ciocirlan/. He has published several courses on Scala and Akka, I think that's good start, especially with Scala.
 
-| Number | Next number | Previous number |
-| :------ |:--- | :--- |
-| Five | Six | Four |
-| Ten | Eleven | Nine |
-| Seven | Eight | Six |
-| Two | Three | One |
+The next question is why you are interested in Scala programming? For me, after short recon, it is the gate to functional programming. Till now I was learning and improving my OOP knowledge, which (I hope) I'm quite good. But Scala is well-known as `better Java` allowing to and encouraging to mix (not sure if this is good verb here...) OOP and FP as well. So... that's my motivation, and next steps I want to make:
 
+https://www.coursera.org/learn/progfun1
 
-How about a yummy crepe?
-
-![Crepe](https://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg)
-
-It can also be centered!
-
-![Crepe](https://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg){: .mx-auto.d-block :}
-
-Here's a code chunk:
-
-~~~
-var foo = function(x) {
-  return(x + 5);
-}
-foo(3)
-~~~
-
-And here is the same code with syntax highlighting:
-
-```javascript
-var foo = function(x) {
-  return(x + 5);
-}
-foo(3)
-```
-
-And here is the same code yet again but with line numbers:
-
-{% highlight javascript linenos %}
-var foo = function(x) {
-  return(x + 5);
-}
-foo(3)
-{% endhighlight %}
-
-## Boxes
-You can add notification, warning and error boxes like this:
-
-### Notification
-
-{: .box-note}
-**Note:** This is a notification box.
-
-### Warning
-
-{: .box-warning}
-**Warning:** This is a warning box.
-
-### Error
-
-{: .box-error}
-**Error:** This is an error box.
+https://pragprog.com/titles/swdddf/domain-modeling-made-functional/
