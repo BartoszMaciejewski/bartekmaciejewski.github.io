@@ -7,7 +7,7 @@ thumbnail-img: /assets/img/scala-intro.PNG
 share-img: /assets/img/scala-intro.PNG
 gh-repo: daattali/beautiful-jekyll
 gh-badge: [star, fork, follow]
-tags: [test]
+tags: [scala, intro, fp]
 comments: true
 ---
 
