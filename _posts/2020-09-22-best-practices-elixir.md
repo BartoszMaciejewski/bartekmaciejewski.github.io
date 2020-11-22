@@ -5,6 +5,8 @@ subtitle: Short instruction
 cover-img: /assets/img/path.jpg
 thumbnail-img: /assets/img/thumb.png
 share-img: /assets/img/path.jpg
+gh-repo: bartekmaciejewski/bartekmaciejewski.github.io
+gh-badge: [star, fork, follow]
 tags: [books, tools, elixir]
 ---
 
