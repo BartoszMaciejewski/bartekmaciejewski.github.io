@@ -7,7 +7,7 @@ thumbnail-img: /assets/img/oop.jpg
 share-img: /assets/img/oop.jpg
 gh-repo: daattali/beautiful-jekyll
 gh-badge: [star, fork, follow]
-tags: [test]
+tags: [oop, solid, best-practices]
 comments: true
 ---
 
