@@ -5,7 +5,7 @@ subtitle: Updated continuously
 cover-img: /assets/img/talks.jpg
 thumbnail-img: /assets/img/talks.jpg
 share-img: /assets/img/talks.jpg
-gh-repo: daattali/beautiful-jekyll
+gh-repo: bartekmaciejewski/bartekmaciejewski.github.io
 gh-badge: [star, fork, follow]
 tags: [talk, software]
 comments: true
