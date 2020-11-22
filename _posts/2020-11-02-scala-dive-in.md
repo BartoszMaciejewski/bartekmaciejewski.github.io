@@ -5,7 +5,7 @@ subtitle: It is good to start... anywhere, anytime
 cover-img: /assets/img/scala-intro.PNG
 thumbnail-img: /assets/img/scala-intro.PNG
 share-img: /assets/img/scala-intro.PNG
-gh-repo: daattali/beautiful-jekyll
+gh-repo: bartekmaciejewski/bartekmaciejewski.github.io
 gh-badge: [star, fork, follow]
 tags: [scala, intro, fp]
 comments: true
