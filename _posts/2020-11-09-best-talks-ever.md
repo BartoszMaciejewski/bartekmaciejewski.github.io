@@ -7,7 +7,7 @@ thumbnail-img: /assets/img/talks.jpg
 share-img: /assets/img/talks.jpg
 gh-repo: daattali/beautiful-jekyll
 gh-badge: [star, fork, follow]
-tags: [test]
+tags: [talk, software]
 comments: true
 ---
 
