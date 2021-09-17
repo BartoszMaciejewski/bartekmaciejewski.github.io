@@ -22,5 +22,6 @@ Based on https://www.youtube.com/watch?v=SisRFSKI4iI
 5. Viewpoints - angles on system workflow
 6. Elements - components
 7. Rationale - decision table, decision matrix, multi factor analysis, architecture trade-off analysis method, etc.
+8. Roles in project - who is who (like glossary - what is what)
 
 ### Don't expect them to trust you, make them trust your decisions
