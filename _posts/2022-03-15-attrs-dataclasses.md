@@ -2,9 +2,9 @@
 layout: post
 title: Attrs (and dataclasses)
 subtitle: Attrs (and dataclasses)
-cover-img: /assets/img/attrs.jpg
-thumbnail-img: /assets/img/attrs.jpg
-share-img: /assets/img/attrs.jpg
+cover-img: /assets/img/attrs.svg
+thumbnail-img: /assets/img/attrs.svg
+share-img: /assets/img/attrs.svg
 gh-repo: bartekmaciejewski/bartekmaciejewski.github.io
 gh-badge: [star, fork, follow]
 tags: [python, decorator]
