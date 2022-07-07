@@ -16,3 +16,9 @@ comments: true
 - Data Engineering with Databricks Course (on https://partner-academy.databricks.com/learn/ - accessed using my company credentials)
 - Access to Databricks workspace to practice (thanks to my previous experience and current work)
 - https://www.udemy.com/course/databricks-certified-developer-for-apache-spark-30-practice-exams/
+
+## Create sandox account (private email: mbartekm@gmail.com)
+
+- URL: https://community.cloud.databricks.com
+- repo: https://github.com/databricks-academy/data-engineering-with-databricks/releases/tag/v2.2.2
+- instructions to import repo: https://www.databricks.training/step-by-step/importing-courseware-from-github/
