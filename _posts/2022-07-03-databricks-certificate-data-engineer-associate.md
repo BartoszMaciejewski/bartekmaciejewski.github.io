@@ -22,3 +22,4 @@ comments: true
 - URL: https://community.cloud.databricks.com
 - repo: https://github.com/databricks-academy/data-engineering-with-databricks/releases/tag/v2.2.2
 - instructions to import repo: https://www.databricks.training/step-by-step/importing-courseware-from-github/
+- Coursera course: https://www.coursera.org/specializations/data-science-with-databricks-for-data-analysts#courses
