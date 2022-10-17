@@ -16,3 +16,5 @@ comments: true
 The art of destroying software
 https://vimeo.com/108441214
 
+Decorators in Python
+https://youtu.be/MjHpMCIvwsY?t=1101
